@@ -1,3 +1,3 @@
 [submodule "cryptonote"]
 	path = cryptonote
-	url = https://github.com/Vordas/worktips.git
+	url = https://github.com/turbobit/worktipscoin.git
